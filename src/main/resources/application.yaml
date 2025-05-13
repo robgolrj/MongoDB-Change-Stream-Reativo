@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongo:
+      uri: mongodb://localhost/test?replicaSet=rs0
+
+
